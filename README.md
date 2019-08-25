@@ -1,6 +1,4 @@
-hello-world
+git-playground
 ===========
 
-Dhruv Agarwal. Student. Developer. gitNoob. 
-
-Trying to make a change.
+Safe space to break functionalities
